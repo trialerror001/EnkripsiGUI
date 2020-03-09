@@ -1,0 +1,11 @@
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\bin\Debug\EnkripsiGUI.exe.config
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\bin\Debug\EnkripsiGUI.exe
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\bin\Debug\EnkripsiGUI.pdb
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.csprojAssemblyReference.cache
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.EncryptToPlain.resources
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.Form1.resources
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.PlainToEncrypt.resources
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.Properties.Resources.resources
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.csproj.GenerateResource.cache
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.exe
+D:\Visual Studio C#\EnkripsiGUI\EnkripsiGUI\obj\Debug\EnkripsiGUI.pdb
