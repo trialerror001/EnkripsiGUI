@@ -20,7 +20,7 @@ namespace EnkripsiGUI
 
 		private void btnEncrypt_Load(object sender, EventArgs e)
 		{
-			//txtKunci.Enabled = false;
+			txtKunci.Enabled = false;
 		}
 
 		private void label4_Click(object sender, EventArgs e)
