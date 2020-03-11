@@ -20,7 +20,7 @@ namespace EnkripsiGUI
 
 		private void EncryptToPlain_Load(object sender, EventArgs e)
 		{
-			txtKunci.Enabled = false;
+			//txtKunci.Enabled = false;
 		}
 
 		private void bynGenerate_Click(object sender, EventArgs e)
